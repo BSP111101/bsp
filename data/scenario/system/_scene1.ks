@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/yokobo.png"  ]
+[preload  storage="./data/bgimage/rouka.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/komaru.png"  ]
+[return]
